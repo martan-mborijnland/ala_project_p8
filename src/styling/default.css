@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+    color: inherit;
+    
+    list-style: none;
+    font-weight: inherit;
+
+    border: none;
+    outline: none;
+
+    min-width: 0;
+    max-width: none;
+
+    min-height: 0;
+    max-height: none;
+}
+
+.hidden { display: none !important; }
